@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "notes": "- Timeline: see what you worked on, day by day – edited files, statuses and moves, grouped into work sessions (sidebar › Timeline)\n- Timeline in every project: a week grid of folders × days, with the history of each file\n- Report for a client: hours per day and edited files for a chosen range and project – copy as text or save as CSV\n- Timeline settings: turn it off, ignore folders, remove single entries (files stay untouched) and restore them",
+  "pub_date": "2026-11-02T21:33:28Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0tiN3E0cHV0T29zT2kzaXVZVTBQbTdldGtxQTdDME5OWmo2MWN2cTdwcHFMa0JBdzEydFExS2VCZnIxRDJ3RFNKRmdHVXRrUHFZTlRkZW1sWE1CbmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU0OTQwCWZpbGU6V2F5Zm9sZGVyXzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQpCNnpKd0hjb01yTnlOc3M0ckpCdElwZklOWW85OHA3aXB4WjFmNjV2NHh4MHdpTGMzdlFxSzFxaXdZczFqdEYzNDROK0hRM1B3bTBZSTRsVmJlN2RDQT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.1-beta/Wayfolder_0.2.1_x64-setup.exe"
+    }
+  }
+}

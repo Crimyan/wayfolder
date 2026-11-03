@@ -1,0 +1,11 @@
+{
+  "version": "0.2.5",
+  "notes": "- Add-ons can now open their own window in the app’s colours (light / dark) and keep their settings\n- New for add-ons: rename many files as one undoable step, export images (PSD, PNG, TGA, EXR, DDS… → PNG / JPG / WebP), image previews, a private temp folder\n- Batch rename can now rename in chains (01→02, 02→03) without “name taken” errors",
+  "pub_date": "2026-11-03T08:49:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0Y1OXExalBxSGUxeDZlcEU0ZzRVQjN5VHZOQktoVEdtZk13d0pGYkREaEdnSFVCSnZGOWVEM1Jtd0dEaDRvWlhnNUZnUldhcVJUS2x5NmVzbUJZeGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjk1NTk2CWZpbGU6V2F5Zm9sZGVyXzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQorN3FRdFo0bzFhKzB5dnp3SGxXT2pLdFllK3RoV0pmUmxtUGxDMTVTd01OWnZRYTZPbFZhVkI5QlVIdlFrdHNkQ29FOWMyYk03Vmg5Sno3WVJYR05DUT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.5-beta/Wayfolder_0.2.5_x64-setup.exe"
+    }
+  }
+}

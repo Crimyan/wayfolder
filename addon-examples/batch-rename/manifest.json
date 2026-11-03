@@ -1,0 +1,12 @@
+{
+  "id": "batch-rename",
+  "name": "Zmiana nazw wielu plików",
+  "version": "1.0.0",
+  "author": "Wayfolder",
+  "description": "Szablon nazwy, znajdź i zamień, numeracja, wielkość liter i rozszerzenie – z podglądem na żywo. Całość cofa się jednym „Cofnij”.",
+  "main": "main.js",
+  "permissions": [
+    "read",
+    "write"
+  ]
+}

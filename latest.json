@@ -1,0 +1,11 @@
+{
+  "version": "0.2.7",
+  "notes": "- New built-in add-on Game Assets (off by default, turn it on in Settings › Add-ons): trim and resize sprites (power of two, shared frame for animations), sprite atlases with Godot SpriteFrames / TexturePacker data, slicing sprite sheets, packing PBR channels (ORM, HDRP / URP masks), converting to DDS (BC1–BC7), checking textures before export\n- Add-ons can now read and write image pixels (images.read / info / write) – see the add-on guide\n- Small fixes (English keyboard hint in the sidebar)",
+  "pub_date": "2026-11-03T18:39:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK1A5R3luWmhMd29ZbU0wcmJSbTlxRzV2eFd4c2tIS2l0aXIxZkdXY0dQb3gxVzRrd3c2ZXZ1OXFVZzFEY3JFWEQyM2Q1bVNWZkErYlpmWTRRcjU0RkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzMxMDk4CWZpbGU6V2F5Zm9sZGVyXzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwozdkJ0dHRnaktPOGdMNVluMnBkOUpsM1Rab2ViaktkNDRhNk9HOExRODJrdGwzaWVIT3Q3Mkd4OXg5YWdjSUJLY0hkOFZPdExqVWlMQnF1aklkU25CZz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.7-beta/Wayfolder_0.2.7_x64-setup.exe"
+    }
+  }
+}

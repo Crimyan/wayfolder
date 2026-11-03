@@ -1,0 +1,11 @@
+{
+  "version": "0.2.3",
+  "notes": "- More columns: 50+ details in the list view (≡ › More columns…) – photo info, video and audio details, document pages, and for artists and game developers: PSD layers and color mode, transparency, power-of-two, DDS format and mipmaps, triangles/vertices/materials of 3D models, Blender version\n- Details are read only for the columns you turn on and only for the files on screen, then remembered\n- Sort by any column, group by many of them\n- Right-click menu settings (Settings › Right-click menu): reorder items and choose Menu / More › / Hidden for each, including your programs' entries – new programs go to More › by default",
+  "pub_date": "2026-11-03T06:31:53Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK1BrdGExK0p4U0R2VGc0Vk1LVDNxWGdVUkZsUDBoOTV2YmpkeFp1YzY4UjNldHZ3YmIvT2FnejNTUEhVTW9saWdIMWMwd2p1Ry9pZWJtWEFtQVhSaGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg3Mzk4CWZpbGU6V2F5Zm9sZGVyXzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwpTeERhUytTcElZemQvbUszdmI0R01GbGlNSUZMcFZpZC9sL21VRjFNZjVqYndWWWI0eWdtMW5wMlo5QzVTY1NNdG1vbWlEWGZadXprV1JaWXFFOFpCZz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.3-beta/Wayfolder_0.2.3_x64-setup.exe"
+    }
+  }
+}

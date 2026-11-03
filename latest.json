@@ -1,0 +1,11 @@
+{
+  "version": "0.2.6",
+  "notes": "- Select several files by dragging a rectangle with the mouse (from empty space; in the list also from the empty part of a row)\n- Built-in add-ons: Batch rename (on), Export images, Compare images and Photoshop actions (off – turn them on in Settings › Add-ons)",
+  "pub_date": "2026-11-03T10:00:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK1B1MkdRc3BNOXNxM2psRlgrR2tpbzFVZmlXQkpzaHBjcFlzRWJQQ3NuZWgzMXVXYnZ0WlBTTUZKUStvcGc4eGI1VUxQNitYZHByUld6WUR4NGswVUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjk5Nzc3CWZpbGU6V2F5Zm9sZGVyXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpYaFNYaEx0N2g1ODlXSGlKM0p1akJZRDNINFBRTXk0b1BOc3RQNFBEQ2lsNnVyOXVvcmVXeGZJVlVXaDNCa1V2MHgzNHRPaTdOclNYSmcxNTBPV2FBZz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.6-beta/Wayfolder_0.2.6_x64-setup.exe"
+    }
+  }
+}

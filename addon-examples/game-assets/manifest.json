@@ -1,0 +1,12 @@
+{
+  "id": "game-assets",
+  "name": "Game Assets",
+  "version": "1.0.0",
+  "author": "Wayfolder",
+  "description": "Grafiki do silników gier: potęga 2 i trim, atlasy, cięcie spritesheetów, pakowanie kanałów PBR (ORM, Mask Map), konwersja do DDS / TGA / PNG / EXR i raport plików z VRAM.",
+  "main": "main.js",
+  "permissions": [
+    "read",
+    "write"
+  ]
+}

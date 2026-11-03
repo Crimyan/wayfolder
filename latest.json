@@ -1,0 +1,11 @@
+{
+  "version": "0.2.4",
+  "notes": "- Right-click menu can now go outside the Wayfolder window (like in Explorer); long submenus fit on screen and scroll\n- Real program icons in the right-click menu (WinRAR, Notepad++, ShareX…) and in Open with\n- Add-ons (beta): Settings › Add-ons – install add-ons from a ZIP, see their permissions, turn them on/off or remove them; “Guide & template…” creates an example add-on with the API description",
+  "pub_date": "2026-11-03T08:05:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK05aa29iNk5tWm1zM25pamNtTjV6aERDblN0SlJNaTRoN3FoRC9PWVlzWC92eXUxRS8zM0NrZjJPTVV0WTB1NHpkMHdxdVRDZkRpeUwyRHRyOEw4cEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjkzMTEzCWZpbGU6V2F5Zm9sZGVyXzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNAp0Y3RTVENSbGNWZys2RmRDS3NHZEZXNDl0R2JLL08zODRnaXM4ZytkRytOUDlTMUJZWVV4c09pU2paL0hDTk5SY3VJZFdXNjc5eHRqSXhVZU1pUFlCdz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.4-beta/Wayfolder_0.2.4_x64-setup.exe"
+    }
+  }
+}

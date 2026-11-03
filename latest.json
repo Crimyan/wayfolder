@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2",
+  "notes": "- This PC: folders, drives with free space and Recent files (from Wayfolder and Windows) grouped by day – can be hidden or turned off in Settings › Privacy\n- Group any folder by day, type, status or size (Downloads is grouped by day by default)\n- More list columns: created, resolution, duration, pages/slides, status, tags (≡ next to the column names)\n- Right-click: Open with, your programs' entries (WinRAR, Notepad++, ShareX…), Open terminal here, Open in VS Code, New text document; Shift + right-click opens the full Windows menu",
+  "pub_date": "2026-11-02T22:40:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0QyUjdST09Ic1ViQTBoUC8wRWZTTVo3MktuZjZsMFR2R1g1ZERIdEZlNXoxeFdmUkcvWllzOSs5OU5TU2UyakQ3R0taek9neGpUcnp5Q1VCNmlYUWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU5MDE5CWZpbGU6V2F5Zm9sZGVyXzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgpRajdKTGYveTBqL0FiNWxOdTVra0I5anMrencrQjEwSCtHSk5ITCtoOHRDSGI1QjBwOVp2czMzN3ZLcUd4c2dXWS9LQ05uVWZ4eDhZWmozTE9ZU0lDQT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.2-beta/Wayfolder_0.2.2_x64-setup.exe"
+    }
+  }
+}

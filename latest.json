@@ -1,0 +1,11 @@
+{
+  "version": "0.2.9",
+  "notes": "- Game Assets: choose where finished files go, right in the bottom bar – a new folder next to the originals, next to them with a suffix, instead of the originals (old files go to the Recycle Bin, Undo brings them back) or any folder you pick\n- Game Assets: \"Fit size\" can now fill a power of two for sprites and UI elements too (scaled with proportions kept), and suggests it when there's a lot of empty space\n- Game Assets: copies named \"copy 2\", \"(3)\" or \"_v2\" are no longer taken for animation frames\n- Add-ons: `ui.pickFolder` and `images.write` with `replace`",
+  "pub_date": "2026-11-04T08:49:14Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0NTWEM3OHpQNFk1OTJycmkwT0xPRmQ3SHB3VUF4dEhWTUM0R0xFYWpRZzJUWmJEZXlSQ0NHZnY3STZQa00yNDdwWTI5aFZPY2hpTlh5SXVGdHYrRUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzgyMTExCWZpbGU6V2F5Zm9sZGVyXzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQp3eW9aemQxRmZ1ZmQyRkRSUnBpbW5PQ0Y3QVI5T0pHNlBHeWNMWEpuMXJQV2FjZFk4RHhHUG13YUZPaEYrWDVJdUxXc1RBK2xQK2ZuRCtya0pDekxCdz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.9-beta/Wayfolder_0.2.9_x64-setup.exe"
+    }
+  }
+}

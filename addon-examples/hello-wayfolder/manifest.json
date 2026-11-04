@@ -1,0 +1,9 @@
+{
+  "id": "hello-wayfolder",
+  "name": "Hello Wayfolder",
+  "version": "1.0.0",
+  "author": "you",
+  "description": "Example add-on: copies the names of selected files and makes a list file.",
+  "main": "main.js",
+  "permissions": ["write"]
+}

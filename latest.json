@@ -1,0 +1,11 @@
+{
+  "version": "0.2.8",
+  "notes": "- Game Assets add-on 2.1 – redesigned for graphic artists: pick your engine once (Godot, Unity, Unreal, web) and every tool shows the finished result first, with one button; every setting is a visible switch, button or − / + control\n- Game Assets: new normal-map maker (2D sprites, tiling textures, from a height map, combining two normal maps) with a lit preview\n- Game Assets: proportional resize to a power of two, atlas packing that can shrink sprites to fit, per-sprite scale / same height / same width, PBR maps found in the folder automatically\n- Game Assets: much faster on big textures (slicing a 4K sheet: 5 s → under 1 s), and the panel no longer jumps when you click settings",
+  "pub_date": "2026-11-03T21:55:14Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK05mZWllQ1ZsRXkyT3pjejlJSm42R0Nld3pKM2tRanNXMjh2VjV6QVp0V1o5alZ0eEd6SGFhQ1VZbGlvcm5VenZOQ3VYZ0V4YkdwMUZFdzV5OWJERFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQyNTYyCWZpbGU6V2F5Zm9sZGVyXzAuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOAptSUN0WHVXVUJGYmZaVkFUalN2NElQTC9DbDE1TW16Z3Vzb0kvdGgwM2k1TUx6am9MMlNPUVJ0UDlUWjZwU3hGV0tWNFl3RzRYQThRdkZLeWlIWDNCdz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.2.8-beta/Wayfolder_0.2.8_x64-setup.exe"
+    }
+  }
+}

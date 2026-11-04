@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "- New add-on **Upscale**: enlarge images ×2, ×3, ×4 or to a size (e.g. 4K) with AI models, with a before/after preview of a crop. Three levels – Fast, Balanced, Best quality – with separate models for photos and drawings, and pixel art without AI. Runs on the graphics card (WebGPU), or on the CPU. Models download once (about 17–100 MB). Turn it on in Settings › Add-ons\n- Add-ons: `wayfolder.upscale` API\n- Second desktop: shortcuts open with a double-click (one click selects), and right-click opens a menu instead of removing – Open, Open with, Show in folder, Copy path, Move to group, Remove (with Undo); the same for images on reference boards\n- Drag files over another tab to switch to it and drop them into its folder; Esc or the right mouse button cancels the drag and brings you back\n- Settings › Right-click menu: WinRAR and similar entries no longer add a new row for every file, and program icons are remembered",
+  "pub_date": "2026-11-04T22:49:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK1BrRjNvRlA1NGlqRHlsdjBZdUcrZUxsTFBuQms2bWNkRHlPeDFNV2I0TjJSYmFGL3dCT3RXbnJwbitVbHRTRFZlOEVFQ1BBYmZQK1JGWTh1MVZGSGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMyNTMzCWZpbGU6V2F5Zm9sZGVyXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMAplMzNhaHBUbGR0dWk5b252QllleE94cEx4M2JZbVU0VnE0d0o2dWdvbmJVYU5ZN0RPWVUraEk0VnhlMlBNS2I4eDE4bGlhTU14WURjRFVLZFVhWFZDdz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.0-beta/Wayfolder_0.3.0_x64-setup.exe"
+    }
+  }
+}

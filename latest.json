@@ -1,0 +1,11 @@
+{
+  "version": "0.3.4",
+  "notes": "- Upscale: Balanced and Best quality work again – the preview, the queue and the speed test no longer run on the same model at the same time (\"Session already started\")\n- Upscale: the queue progress bar shows how many images are done",
+  "pub_date": "2026-11-05T11:41:31Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0U5aitIUzJEM1E5SUtmdDBIRFk0a0xIa2poUGtMZElKbDRzOHcralRkajFDbGJ2R2plTy9QK0FyMkRCdGR0aWtJVGtYQjdMb1EzUlFUZUdNeUZEdFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc4NjU0CWZpbGU6V2F5Zm9sZGVyXzAuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNApVNmdDM3JhWS8zOUtKaS80bHlQQWNROElTTXc4WlUzc1hHbEM5ZGhlTWRZQWlJOHFtc2NXeVBsdnErZUpMNlF2UkFHcVRLdTkrSDZlSjVxaEtDci9BZz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.4-beta/Wayfolder_0.3.4_x64-setup.exe"
+    }
+  }
+}

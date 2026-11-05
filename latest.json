@@ -1,0 +1,11 @@
+{
+  "version": "0.3.2",
+  "notes": "- One toolbar instead of two: ☰ menu on the left, Undo (↶) next to the arrows – hover it to see what it will undo – and Settings as a ⚙ icon. Cut, Copy, Paste, Rename and New folder are in the right-click menu and on the usual keys\n- Preview | Journal switch moved to the top of the right panel\n- Quick access: a + button (this folder or choose a folder), a \"Drop here to pin\" area while dragging, and drag rows to reorder\n- Tags: \"+ New tag\" (then drag files onto it), right-click a tag to rename or delete it",
+  "pub_date": "2026-11-05T09:14:33Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0hlc2EwQ1ovY0VJN0p6b3licU9vQ3lRbUdkS0xKMFBQTzhwZVVrYjJXQ3UxUm1ZTWtYNzk1NUpza2Q0cnQwcDg2V2M3eWxxVmczTTQ0eGNwNjdxbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODcwMDMzCWZpbGU6V2F5Zm9sZGVyXzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgpZMUpjR0Y3Q1lFdDFvclhSY2huUDhmSUI0cHA0d2NrMG9kT3hIR2FsVGZGK0huWGFhYnc5UjQxQ2p5KzlHMEF1R1FjczZhQ2hkY09yK2Q3aXpuNmJCZz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.2-beta/Wayfolder_0.3.2_x64-setup.exe"
+    }
+  }
+}

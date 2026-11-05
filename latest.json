@@ -1,0 +1,11 @@
+{
+  "version": "0.3.1",
+  "notes": "- Upscale: models now download from GitHub (no more http_404), the download screen shows only for the models you need, clearer error messages, and you can load models from a folder\n- Search: a \"This folder | Everywhere\" switch – click again to go back to the folder you were in\n- Hidden folders: junctions like \"Documents and Settings\" and dot-folders (.cache, .git) are hidden together with hidden files\n- Tabs and the window title use the same folder names as the tree (Downloads, Desktop, Documents…)\n- Add-ons: red \"Remove\" button with a confirmation; the add-on switch looks like everywhere else\n- Clearer texts in Settings (3D preview, thumbnail cache, timeline), GIFs only under Images, one name \"Clean-up\", and a quieter status bar",
+  "pub_date": "2026-11-04T23:17:10Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0Rvenl6MmVNaUcwaTVKNjVObUJEQjNZQ1lpbVQ3TDA4dHhjZlZoKzlVZjNZM0NudkxndFNVbDl2OXRFbFFBZEwxaVRDUFRneitqSXBtcDFqaXVpeUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM0MTkxCWZpbGU6V2F5Zm9sZGVyXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpvSWVjOGhScW9sWGhvSlF3ckNOeHpaUEoweFVGRVIzcmdWcURFQjRqak1Ta2hqZm5hU0s3MEJ5Rk9lbGRwcEVvZ256bTJTUDdmZFNnRnZaZEVjOGlEUT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.1-beta/Wayfolder_0.3.1_x64-setup.exe"
+    }
+  }
+}

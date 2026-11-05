@@ -1,0 +1,11 @@
+{
+  "version": "0.3.3",
+  "notes": "- Settings: a list of sections on the right (click to jump, the current one is highlighted) and \"Search settings\"\n- New drop-down lists in the app's style instead of the Windows ones\n- Statuses: drag rows to reorder, pick a colour from 10 ready ones (readable in light and dark theme) or your own, file count next to each status\n- Settings › Right-click menu: drag rows by the ⋮⋮ handle (the arrows still work)\n- One switch style everywhere; the grid/list switch hides where it does nothing",
+  "pub_date": "2026-11-05T10:00:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0kybUplb1pPZlBqcnFZMm9WSlhzZm1VU3pOdXluYThwc1pRNEhFRkxhMTZ5Y3p5ZzVubXlTcStKU0JzeW5OKzI2ektoZUpCUFBKa09BRzFuQTZtS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODcxMjgxCWZpbGU6V2F5Zm9sZGVyXzAuMy4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMwpTUG4xc2pRcENJK3BxOTMrdjg0QVkvT0NWR3YzSzY2VTV6YXZKbW5LcnJiY1ozaXBIVk1yRm5MaVRhb0JmY29FV0MzMUNhTjFvcjl4R2VnNU5vWStDdz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.3-beta/Wayfolder_0.3.3_x64-setup.exe"
+    }
+  }
+}

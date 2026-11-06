@@ -1,0 +1,11 @@
+{
+  "version": "0.3.5",
+  "notes": "- New add-on Fit to send: shrinks photos and videos so they surely fit Discord, e-mail and other limits (editable presets), removes EXIF/GPS, puts the result on the clipboard. Videos use FFmpeg, downloaded on first use. Turn it on in Settings › Add-ons\n- Export images is now Image converter 2.0: 13 formats (WebP, JPEG, PNG, GIF, ICO with many sizes, DDS, TGA, QOI, TIFF, EXR, HDR, BMP, PPM), file size before saving, resizing and \"Convert to ›\" in the right-click menu\n- Upscale: Balanced and Best quality work – one job per model at a time, and when the graphics card returns a broken result, smaller tiles or the CPU are used automatically\n- Add-ons: new APIs for images (fit, convert, estimate), video (FFmpeg: probe, encode) and copying files to the clipboard",
+  "pub_date": "2026-11-05T13:55:44Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK011dVBhZmluY3VXekxXUUQ1K1ZHVldYR05ySGhZNVRYaTlCaUpvR1F0TXVRME9CZ0lNR2VvamU5ZmJUSlNlTmkyRnhBWmFZTjNIb0lkS1JIL2w4ZGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg2ODczCWZpbGU6V2F5Zm9sZGVyXzAuMy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNQpUdGJ4TnFtT2wxNm1CcDAyeldBNGpmZjFWWTgxQy9BL3EwSUVoZEwyd2tKVERpVWhQeVQ2a1dneDAvLzdicTNha3h4aFdBWWtWYTN2a3YzN1o3ZWZBQT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.5-beta/Wayfolder_0.3.5_x64-setup.exe"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.3.6",
+  "notes": "- Fixed: searching Everywhere could fail with \"byte index … is not a char boundary\" after Wayfolder had been running for a long time. The search index now also frees memory taken by deleted and changed files",
+  "pub_date": "2026-11-06T10:47:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0JQRGRCRCtxenhmSC9QN0I2cVRObjVZYnErMWkzVytDb0xScUQxQXpOZnV2M2wycVhPaVEzRkpxL0xHcC9SR01sc08wNTY0S0xoT3Z5bFMycWYrb2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYxOTk2CWZpbGU6V2F5Zm9sZGVyXzAuMy42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNgowZTJuU01yVVMyVGZmdzhZQUMzb0s2Y0NnSDBOdklhWjRUdkdOSUMvOXc4L0VaQzl5YjJ6OFdnVHJmaE5GK21mOTZCTkdud3Ywam96bnlkYWRwdHVCdz09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.6-beta/Wayfolder_0.3.6_x64-setup.exe"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.3.7",
+  "notes": "- New: Plan (in the tree under Second desktop) – a calm “Today” screen (calendar, routines, up to 3 things for today, In progress with a limit), a Trello-like task board with subtasks, files and links linked to tasks, quick asks with priority, recurring tasks (e.g. monthly bills), unfinished items carried over, and a searchable archive. Everything stays on your computer",
+  "pub_date": "2026-11-07T19:12:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0J3WnRLSHJwQTAyUFk0Slg2SmQ4M3prUExKeml3YWQzVXZGQ1p6SzJ0dXFKYTJ4cFV2Vkh4M25EY0RTWVRNNmZYV1Q5TXpTK3JoSkNIaCtVUHhJNUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc4NjU0CWZpbGU6V2F5Zm9sZGVyXzAuMy43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNwp2eU15aXBaRC82Q21NR3ZyUkErbThIR0FyV1F2WE4wTjlabHRCMzdGZlkrRnluU3hBZHlVNFJwVDkxSFlaWHRoTmc4a1ZKZ0t5VmdPaDErVlBrbk5BUT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.7-beta/Wayfolder_0.3.7_x64-setup.exe"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.3.11",
+  "notes": "- Game Assets 2.5: fixed atlas size (e.g. 1024 × 1024) to leave room for later, with free space and how many more images fit\n- Game Assets 2.5: \"Add to an existing atlas\" – new images go into the free space, old ones keep their exact positions (Godot .tres, TexturePacker JSON and CSV are updated); if they don't fit, the file grows right or down, or a second file is made. The old image goes to the Recycle Bin (Undo), the old data to _atlas_old\n- Add-ons: wayfolder.ui.pickFile() – choose a file",
+  "pub_date": "2026-11-09T11:40:55Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0cyYm1GbUx0UUk1Z1hvbTlQaGE1eURiYkVjcU1aemt0UzFsanBINDVUSjJheEh2cjZ5Si9pZ2U4c2Z1eTVNRHIxbFdRZzU0M0U1S3didjVNQlpCTEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI0NDE5CWZpbGU6V2F5Zm9sZGVyXzAuMy4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjExCndaNEE0K3NJRnZKa3FWNStKK3N1alExSW13eEVUakhlRXBWSDVmYkdJWDdGSnViTVlocmh5VUtMempzVklWUVczOVZWZVBjMXNMaGVZNHcxbWhXVEJBPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.11-beta/Wayfolder_0.3.11_x64-setup.exe"
+    }
+  }
+}

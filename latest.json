@@ -1,0 +1,11 @@
+{
+  "version": "0.3.10",
+  "notes": "- Game Assets 2.4.1: atlases from the top-left corner now spread to the right first (wider page when it's the same size), the preview shows the edge of the file so you can see the free space, and the Packing option has more room",
+  "pub_date": "2026-11-09T11:16:51Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK01ZN2JlcWZnTHBvd25WaU85VllXaFdXQmRweUhlc1FoM2JxSXZET090Y3o1bUZUZ3F6RHI3YkpuaXZsZlBVdEN3UEFCNm5NWVh6OFJsWHNRWGN5ZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIyOTY2CWZpbGU6V2F5Zm9sZGVyXzAuMy4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEwCjJZME5BdHYwamhLNysvV0JJNDRLYjlGcXlpN0lySU5VOG1kVWlxUzJuQ0dUWmJWaWZVZDllcnJYdDMzM084ZmhpaDkrMWsvZTNDYmhZcHczTS9sUkJ3PT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.10-beta/Wayfolder_0.3.10_x64-setup.exe"
+    }
+  }
+}

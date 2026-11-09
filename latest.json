@@ -1,0 +1,11 @@
+{
+  "version": "0.3.9",
+  "notes": "- Plan: reminders as Windows notifications (before events, things due today, unfinished routines – set the times in Plan settings), read-only calendars from an iCal link (e.g. Google’s secret iCal address, repeating events included), quick typing like “tomorrow 14:00 Filip icons !” (date, time, person and priority are picked up), and “Work on the files” on a task – time spent on its linked files from the timeline\n- Folder icons show what's inside: up to three pictures peek out of the folder, folders with other files show sheets of paper, and an empty folder is just an outline. Under the name you see the number of items or \"Empty\"\n- Game Assets 2.4: atlases are packed from the top-left corner by default (free space on the right and at the bottom); \"tightest\" packing is still one click away",
+  "pub_date": "2026-11-09T10:54:32Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0RHdHBYcTlaZklnUUVrcWQvTkFSUkd2Zk5KYzNtMXgvWHdKZ1JJZTltMGRJSDc0M1FFMU92c252N0dUMnRoM1lTdTNZUzBHOUNQbGIxL2NTdHAvTXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIxNjIzCWZpbGU6V2F5Zm9sZGVyXzAuMy45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuOQo5Q0FTZ241UzlmNlltYzFyZFhPOTBLSWJLeDlNcW5jUzFPeWZwVVVDVk1WZWlhYnVrYm85bXo0azhWU1FXaUhDRjNPdFViTmYwSzcwNGxKSFdkUjZEUT09Cg==",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.9-beta/Wayfolder_0.3.9_x64-setup.exe"
+    }
+  }
+}

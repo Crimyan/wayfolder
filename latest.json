@@ -1,0 +1,11 @@
+{
+  "version": "0.3.12",
+  "notes": "- Plan: \"Done\" in a task now saves and goes back; completing a task is the round check next to the title (or the ⋯ menu)\n- Plan: status is a dropdown under the title; dropdown lists are readable in the dark theme\n- Plan: board cards are lightly tinted with their project colour\n- Plan: \"Files and links\" is now \"Materials\" – paste a screenshot, file or link with Ctrl+V or the Paste button; images show thumbnails\n- Plan: the note field is bigger and grows with the text",
+  "pub_date": "2026-11-09T23:23:34Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0U2VjZ3RHJaSXByTUU5T2dONEtoY00xSEQzbVRIYWtDKzloZ25PeHdIUU8rWU1Hd1M0R3l4ZVdSZzdIdndHSk9ReTBZcmRoM3htenpNRVpHL1FNQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY2MjY3CWZpbGU6V2F5Zm9sZGVyXzAuMy4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEyClgwUzJtcjV6T0FZaXUwRHVjMXFGek04MjZKQUlIWHVkTlZTL3p3eUhMTVV6Nk10TDE4bWJnclVrVlBnTXhrU1RCekY1bkt6cXBtZkRYSGpaVTdYL0JnPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.12-beta/Wayfolder_0.3.12_x64-setup.exe"
+    }
+  }
+}

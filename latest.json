@@ -1,0 +1,11 @@
+{
+  "version": "0.3.13",
+  "notes": "- \"Show in folder\" also when filtering a folder with \"+ subfolders\" – in the preview panel and the right-click menu, for files from subfolders",
+  "pub_date": "2026-11-10T15:38:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0M2TUxsWWd1Q25Bb3IyUkYrNzBiUHBpdUpMQzcvRExTZjkyeWdDT3AxV291NU5DdlZ2RlNVZVJBUU5tTnU1dmFwTmF6d0h3b1NZSmZNMFgyNk5GWVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI1MDYzCWZpbGU6V2F5Zm9sZGVyXzAuMy4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEzCm5hVi9NeVNUSlZ5eXlJME1sV3Y2YUFmdlFMa3l5ci91QzRRcW1HU3ZES1JydkpPQmFKbUlXczJPa01YU3l0dGhZZ0RhUFYzOTVqUTJiVExBc1VHZERnPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.13-beta/Wayfolder_0.3.13_x64-setup.exe"
+    }
+  }
+}

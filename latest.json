@@ -1,0 +1,11 @@
+{
+  "version": "0.3.16",
+  "notes": "- One view button with 5 sizes: extra large, large, medium, small icons and list (Ctrl+Shift+1–5), plus a size slider; Ctrl + mouse wheel resizes smoothly. Each folder remembers its view and size\n- Settings › Window: default folder view and \"Reset folder views\"",
+  "pub_date": "2026-11-11T14:27:23Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0taZXFGVjFnMGlNWEJWcG1OVkREM2grQXJrVmZ5RFNUUkU1b0dkUlgvMWY5cUtSMG5IUUUxMUczQSsvY2EzYytsVTN3ZzBNZVB4MFlyeENkMnF6Z1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA3MTk0CWZpbGU6V2F5Zm9sZGVyXzAuMy4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE2CmhIbmUzNG5YeUNiZGY0Y1NFNDFtUXlRSjYxS1FpQUw5eGNicTdGWVFJeXFscGE1NFpRU0pTUEtrMDVMK0N0Y3VkdWJPN3A4UURBQ2FGNklmYkh5ekFRPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.16-beta/Wayfolder_0.3.16_x64-setup.exe"
+    }
+  }
+}

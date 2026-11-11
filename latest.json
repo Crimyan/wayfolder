@@ -1,0 +1,11 @@
+{
+  "version": "0.3.14",
+  "notes": "- Sidebar: new \"Recent\" section (last 5 files) and your own folder groups (e.g. a client or references) – add folders with +, by dragging, or from a folder's right-click menu › Add to group\n- Customize the sidebar: hide and show items and sections, drag sections to reorder, collapse them, rename and recolor groups; \"Restore defaults\" in the sidebar and in Settings › Window\n- Grid / list is now remembered per folder (e.g. Downloads always as a list); the default view and the list of folders are in Settings › Window",
+  "pub_date": "2026-11-10T21:20:43Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK09GUWlVMzFuNzBEZFVweWRqUmUzMTUrMmE1N1BvSWlDeDhaazhWNHkwVE5icmRPeWIrdGFQU3l3R2xoUGhXYXBYUC81SWJMY0Fzd0RzMi9YZ2VRakEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ1NjAyCWZpbGU6V2F5Zm9sZGVyXzAuMy4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE0ClVNZjQ3Q2xmRURiZlNESTNzalBTeEdJQjk2ci9zdVk0TWduZGxxUi85M2hNZUs4aW4rYys1Y2E4aEJLYjQ5WE5uSHQ3eWpqYkRkYlNyTWdOaGZFM0JRPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.14-beta/Wayfolder_0.3.14_x64-setup.exe"
+    }
+  }
+}

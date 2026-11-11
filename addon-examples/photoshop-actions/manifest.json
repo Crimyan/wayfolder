@@ -1,0 +1,13 @@
+{
+  "id": "photoshop-actions",
+  "name": "Akcje Photoshopa",
+  "version": "1.0.0",
+  "author": "Wayfolder",
+  "description": "Uruchamia wybraną akcję Photoshopa na wielu plikach i zapisuje kopie (PNG / JPG / PSD) albo nadpisuje pliki.",
+  "main": "main.js",
+  "permissions": [
+    "read",
+    "write",
+    "run"
+  ]
+}

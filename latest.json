@@ -1,0 +1,11 @@
+{
+  "version": "0.3.15",
+  "notes": "- Paste or type a path to a file in the path bar – Wayfolder opens its folder and selects the file (instead of an error)",
+  "pub_date": "2026-11-11T13:15:23Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0d2S3BVUThTaXpBRnNYeGNHWGIyME9PNmhSNm1NaFM1VVBibzF0VUdhYWNQVHk3ZEJYaDZhRFNscms0MldtbFhLSHFMWmhtalpSK3d2VnlUT0psd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAyODYzCWZpbGU6V2F5Zm9sZGVyXzAuMy4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE1CmJqano0V2J0UWZoSHUwQ3BDNmQ0M3JwdGRoY01OajQyKytKa2Jxd1dXVGdyNGFUbkVPQmZ1QWdBSWdxOXRPVzNtQm1XcWUvdURqam5IOVp4RmhtSkR3PT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.15-beta/Wayfolder_0.3.15_x64-setup.exe"
+    }
+  }
+}

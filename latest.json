@@ -1,0 +1,11 @@
+{
+  "version": "0.3.18",
+  "notes": "- Sort button instead of Group: sort by name, date modified, date created, type, size, status or image dimensions (click again to reverse), plus grouping and \"Folders first\" in the same menu\n- Default sorting is now Name A–Z with natural number order (01, 02 … 10); Downloads stays newest first, grouped by day\n- Each folder remembers its own sorting; \"Reset folder views\" in Settings clears it too\n- Right-click menu now shows submenus from Windows programs (e.g. Google Drive, 7-Zip)\n- Photos and videos opened from Wayfolder: the arrow keys in the Photos app go through the folder, in Wayfolder's order\n- Drag a folder from the sidebar onto a tab to open it there, or onto the empty tab bar for a new tab",
+  "pub_date": "2026-11-13T17:57:53Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK08xRjIwYldLNXZEV1J2QVo5MVB4eWNCVTBMampuaVpyeTlmcFl0UFI0WFI5YU9KWG1xY1BheFBXMmVKQjB0cFVLUE1IREFVTTBKRUxBMHhYandhQlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkyNDEwCWZpbGU6V2F5Zm9sZGVyXzAuMy4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE4Ckl4Qk9rZ2cwZ0dITUIzaFNpa05PTTcyelRzdUV3eTA2S2hzc0NZNXRkZi9ITGNpdDd4Y3FMTDJXd1pNT204d1BFSWRsZnpwRklqOU8vVVN3NytDREFnPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.18-beta/Wayfolder_0.3.18_x64-setup.exe"
+    }
+  }
+}

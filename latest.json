@@ -1,0 +1,11 @@
+{
+  "version": "0.3.17",
+  "notes": "- Narrow window: the toolbar splits into two rows (path on top, group / view / filter below) instead of squeezing and hiding things\n- A long path shortens to \"D: › … › Folder\" when it does not fit – click \"…\" for the hidden folders (no more overlapping text)\n- \"+ subfolders\" is now a small icon in the filter field\n- Clicking the settings gear again takes you back to where you were",
+  "pub_date": "2026-11-11T16:27:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK094WlNMWDAyM0xKbzRDbC8wZDdMTDFzWG90N0pud2RSdU1MQk5uSnBGblhrSEJQRWxwQjhWN0Y4RnpBMmdkbWRJWFNPdjdHL1hEeE5IVFZJUThwV1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE0NDI0CWZpbGU6V2F5Zm9sZGVyXzAuMy4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE3Ck9HcThFNzRJUGkxTjNlcUlhTzZVVU8xanNURzNDUmUzUkJhdlpUQk1vbTFVSmU4NFVNaGFQVEdPaHZEL2ZvMlE0MTBIcDAwQXM5bTJ6NDNTdE9ZMkFBPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.17-beta/Wayfolder_0.3.17_x64-setup.exe"
+    }
+  }
+}

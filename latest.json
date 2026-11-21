@@ -1,0 +1,11 @@
+{
+  "version": "0.3.19",
+  "notes": "- Fixed: photos opened from Wayfolder now let you go through the folder with the arrow keys in the Photos app",
+  "pub_date": "2026-11-13T18:42:18Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0k4R1QxdGFrSDV4Zko5Zi82MUNFVDlRUEhMNWlCZUdJNThXYXRUbWdnTFlrdUE5ekhFYkFSRXF4a1Y2UjMzN0owZ1pDd0djRmloL25JUGdZNWJpWHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk1MzExCWZpbGU6V2F5Zm9sZGVyXzAuMy4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE5Ck1TdDV4SXdYek1QbXBsVDZ6cURZZzUxQnI4N0ZiUnpDckFzL0xROE1LZURhdmVtNkh4R04yendhWkNTZlRHa3JMaTM0enlBMTJDcWNOQUpyRkZsbEFRPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.19-beta/Wayfolder_0.3.19_x64-setup.exe"
+    }
+  }
+}

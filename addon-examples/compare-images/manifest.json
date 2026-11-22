@@ -1,0 +1,11 @@
+{
+  "id": "compare-images",
+  "name": "Porównanie obrazów",
+  "version": "1.0.0",
+  "author": "Wayfolder",
+  "description": "Dwa obrazy obok siebie, z suwakiem, przenikaniem albo jako różnica z procentem zmienionych pikseli.",
+  "main": "main.js",
+  "permissions": [
+    "read"
+  ]
+}

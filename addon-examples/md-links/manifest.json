@@ -1,0 +1,9 @@
+{
+  "id": "md-links",
+  "name": "Markdown links",
+  "version": "1.0.0",
+  "author": "Wayfolder",
+  "description": "Copies selected images as Markdown image links.",
+  "main": "main.js",
+  "permissions": []
+}

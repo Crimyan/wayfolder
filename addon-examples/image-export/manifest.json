@@ -1,0 +1,12 @@
+{
+  "id": "image-export",
+  "name": "Eksport obrazów",
+  "version": "1.0.0",
+  "author": "Wayfolder",
+  "description": "PSD, PSB, PNG, TGA, TIFF, EXR, DDS… do PNG, JPG albo WebP, z opcjonalnym zmniejszeniem. Eksport cofa się w Dzienniku.",
+  "main": "main.js",
+  "permissions": [
+    "read",
+    "write"
+  ]
+}

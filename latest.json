@@ -1,0 +1,11 @@
+{
+  "version": "0.3.20",
+  "notes": "- Many tabs in a narrow window: tabs get narrower, then the tab bar scrolls with the mouse wheel (faded edges show there are more), the active tab stays in view, and \"▾ N\" lists all tabs with search\n- Drag anything from the sidebar onto the tab bar – Quick access, your groups, Recent, Search, Plan… – onto a tab to open it there, or onto the empty bar for a new tab\n- Customize sidebar: delete your own group with the trash icon (with Undo)",
+  "pub_date": "2026-11-21T18:59:14Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0xEMEJVbVJjaDIwRHJLZVJ4ZjlrRXFxaC9HU0Z4L0dzMkNscis1aytGZ2srVmZMT0pQampSSVBrS2Y3eHk0a2JMQTBHS3I5SVFQMWE4ME0yTVA3ZGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg3NTE3CWZpbGU6V2F5Zm9sZGVyXzAuMy4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIwCnZtS2VTNEFYZEtlY0pDVlFsdHlYWStER0tHb1BMcndycHdnbTAxdTNXMUx4SFJlV2llUDJXZGlKNlpTTTlvOHAwdTloMDJGZ2treTBnckE4TTRGYUFRPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.20-beta/Wayfolder_0.3.20_x64-setup.exe"
+    }
+  }
+}

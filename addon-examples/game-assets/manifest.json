@@ -1,0 +1,12 @@
+{
+  "id": "game-assets",
+  "name": "Game Assets",
+  "version": "2.3.0",
+  "author": "Wayfolder",
+  "description": "Grafiki do silników gier – najpierw gotowy wynik, potem dostrajanie: rozmiar do potęgi 2, atlasy, cięcie arkuszy, mapy PBR, normal mapy (sprite 2D, tekstura, wysokość), przygotowanie do Godota, Unity, Unreala i weba oraz sprawdzanie plików.",
+  "main": "main.js",
+  "permissions": [
+    "read",
+    "write"
+  ]
+}

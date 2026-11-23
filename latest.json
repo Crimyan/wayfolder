@@ -1,11 +1,11 @@
 {
-  "version": "0.3.21",
-  "notes": "- New built-in add-on **3D converter**: right-click a model → \"Convert model to ›\" (Non-CAD: GLB, FBX, OBJ, STL, 3MF… · CAD: STEP, IGES…) or open the converter window for many files and more formats\n- Game / graphics formats (GLB, glTF, OBJ, STL, PLY, USDZ, Draco – from FBX, DAE, 3MF, 3DS, VOX, Rhino 3DM and more) convert right away, with textures embedded or copied next to the model\n- 3MF for slicers (Bambu Studio, PrusaSlicer, Cura) from any model – also from STEP / IGES / DWG: millimetres, Z up, welded mesh, material colours\n- CAD (STEP, IGES, BREP, DXF, DWG) through free engines downloaded on first use (Mayo, LibreDWG), with mesh quality draft / normal / fine; FBX, USD, Alembic and .blend through your installed Blender\n- Results are saved next to the originals and never overwrite anything; closed formats (SolidWorks, Inventor, Fusion…) get a clear hint to export STEP\n- Fix: the right-click menu sometimes highlighted the wrong item until the mouse moved",
-  "pub_date": "2026-11-22T23:56:53Z",
+  "version": "0.3.22",
+  "notes": "- 3D converter: conversions that go through several engines (e.g. STEP → FBX, 3MF → FBX, DWG → STL, STEP → 3MF) now really save the file next to the original – before, the result was lost\n- 3D converter: real-world size and the same orientation in every direction – a 200 mm CAD part is 0.2 m in GLB/FBX/USD and stands upright; FBX → GLB and 3MF → GLB no longer come out 100–1000× too big; GLB/FBX → STEP keeps the true size\n- 3D converter: STL and 3MF made from models with real units (GLB, FBX, 3MF, DAE) are written for 3D printing – millimetres, Z up – so they stand in the slicer at true size\n- 3D converter: CAD assemblies keep their parts as separate objects in FBX/USD; USD no longer writes a stray background texture\n- 3D converter: clear message when a STEP file holds only a mesh (IGES can't be made from it) and readable engine errors instead of progress output\n- 3D converter window: the \"Which format?\" header stays visible; scale hint for formats without units",
+  "pub_date": "2026-11-23T17:58:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0VHaCtEb3NSSTJkQlpyanZ6bjRGQWsrVHd1M2gxd0k0WmFyOVYveTZKb0I1OCtmUzM3Z1dubnFKaFlrN2k0WEV2eWh4WWNZNU9kMDBQb3RBWjlmRlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzkxNzc2CWZpbGU6V2F5Zm9sZGVyXzAuMy4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIxCnJsQlFzSWM5NHVTRFZTNWMvMmQxbEtZNjNHRmg3WFNLMlkxZzhsWm1kZnA0UmxDSEZCVXdadjRyY09QcVE3V3YvTkV4cEZhREZiakRUdjNNd1c2UEJBPT0K",
-      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.21-beta/Wayfolder_0.3.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3FaMFIvRWJOK0Q0SmNxZ0Q3RUdZTnU2VlBXNGV2ZmMvSjJhcGxkemIyMGY2enRadklHRWtleWZVTWl1akMzQ0o4SjhFVEJXUkRQMm5VT3lsZjVvM3dLaHhJSmhjRHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU2NjgzCWZpbGU6V2F5Zm9sZGVyXzAuMy4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIyCjlWTUJ5ZzJvMlJLWkh6Mk5hNHorMXZEckRxZGZSQXdBSkU0YkJWbWFwbnlFZ0Rla0FXMEdEdEI4VHlBeTJHd3FGYzI0bDJSeHZPTXA1RTVsVDNwOERnPT0K",
+      "url": "https://github.com/Crimyan/wayfolder/releases/download/v0.3.22-beta/Wayfolder_0.3.22_x64-setup.exe"
     }
   }
 }
